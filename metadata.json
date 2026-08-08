@@ -1,0 +1,6 @@
+{
+  "name": "Omni Video Studio",
+  "description": "Convert prompts into 40-50 second cinematic videos with Sora, Zero V3, and Nano V2 engines and male voice narration",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
